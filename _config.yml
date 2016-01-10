@@ -1,20 +1,26 @@
-# Site settings
-title: Slice of Pi
-email: miriam.angell.cox@gmail.com
-description: > # this means to ignore newlines until "baseurl
-	Hey there! I'm a computing student at K-State who loves to solve problems 
-	code, toy with microcontrollers, garden, eat delicious snacks, and geek out
-	about nerd culture!
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://miriamcox.net" # the base hostname & protocol for your site
-twitter_username: marzipanicked
-github_username:  miriamcox
+# Permalinks
+permalink:           pretty
 
-# Build settings
-markdown: kramdown
-
-paginate: 4
-
-author: Miriam Cox
-
+# Setup
+title:               Slice of Pi
+tagline:             'Food for thought.'
+description:         'This corner of the cloud belongs to Miriam Cox, a cybersecurity amateur, pop fantasy nerd, and aspiring foodie.'
+url:                 http://miriamcox.net
+baseurl:             ''
+paginate:            5
 gems: [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Miriam Cox
+  url:               http://miriamcox.net
+  email:             miriam.angell.cox@gmail.com
+  codepen:           http://codepen.io/miriamcox/
+  github:            https://github.com/miriamcox
+  twitter:           https://twitter.com/mdo
+  facebook:          https://www.facebook.com/miriamangell
+  linkedin:          https://www.linkedin.com/in/miriam-cox-a0051876
+  steam:             http://steamcommunity.com/id/marzipanic/
+
+# Custom vars
+version:             1.0.0
