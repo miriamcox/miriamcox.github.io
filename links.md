@@ -7,23 +7,14 @@ title: Links
 Looks like you've found my list-dump of fancy links and web-apps. Explore to your heart's content.
 </p>
 
-## Guilty Pleasures
-* [The Website is Down](http://www.thewebsiteisdown.com/)
-* [Power to the Poster](http://www.powertotheposter.org/)
-* [QDB](http://www.qdb.us/)
-
-## Comics
-* [Minna Sundberg Comics](http://www.minnasundberg.fi/)
-* [Mare Internum](http://www.marecomic.com/)
-* [Hero on Hero](http://www.neorice.com/)
-* [Rice Boy](http://www.rice-boy.com/)
-* [The Oatmeal](http://theoatmeal.com/)
-* [xkcd](http://xkcd.com/)
-* [Savage Chickens](http://www.savagechickens.com/)
+## The Skinny
+* [Hacker News](https://news.ycombinator.com/)
+* [Insecure](http://insecure.org/)
+* [SlashDot](http://slashdot.org/)
 
 ## Security
 * [Contagio Dump](http://contagiodump.blogspot.com/)
-* [Honeynet](http://www.honeynet.org/)
+* [TorFlow](https://torflow.uncharted.software/#/2015-10-21)
 
 ## System Administration
 * [7-Zip](http://7-zip.org/)
@@ -31,9 +22,11 @@ Looks like you've found my list-dump of fancy links and web-apps. Explore to you
 * [Ninite](https://ninite.com/)
 * [OpenVim](http://www.openvim.com/)
 * [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
+* [QDB](http://www.qdb.us/)
 * [Server Fault](http://serverfault.com/)
 * [Stack Exchange](http://stackexchange.com/)
 * [Super User](http://superuser.com/)
+* [The Website is Down](http://www.thewebsiteisdown.com/)
 * [Wireshark](https://www.wireshark.org/)
 
 ## Development
@@ -53,16 +46,20 @@ Looks like you've found my list-dump of fancy links and web-apps. Explore to you
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
 * [HSL Color Picker](http://hslpicker.com/)
 * [Paletton](http://paletton.com/)
+* [Power to the Poster](http://www.powertotheposter.org/)
 * [Responsinator](http://www.responsinator.com/)
 
 ## Electronics
-* [150+ Electronics Projects for Engineering Students](http://www.electronicshub.org/electronics-projects-ideas/)
+* [Electronics Hub](http://www.electronicshub.org/electronics-projects-ideas/)
 * [Adafruit](https://www.adafruit.com/)
 * [Sparkfun](https://www.sparkfun.com/)
 * [Fritzing](http://fritzing.org/home/)
 
-## The Skinny
-* [Hacker News](https://news.ycombinator.com/)
-* [Insecure](http://insecure.org/)
-* [Krebs On Security](http://krebsonsecurity.com/)
-* [SlashDot](http://slashdot.org/)
+## Comics
+* [Minna Sundberg Comics](http://www.minnasundberg.fi/)
+* [Mare Internum](http://www.marecomic.com/)
+* [Hero on Hero](http://www.neorice.com/)
+* [Rice Boy](http://www.rice-boy.com/)
+* [The Oatmeal](http://theoatmeal.com/)
+* [xkcd](http://xkcd.com/)
+* [Savage Chickens](http://www.savagechickens.com/)
